@@ -35,9 +35,9 @@
     <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
     <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-    <a href="https://www.http://cplusplus.org/" target="_blank"> <img src="https://img.icons8.com/color/50/000000/c-plus-plus-logo.png"/></a> 
+    <a href="https://cplusplus.org/" target="_blank"> <img src="https://img.icons8.com/color/50/000000/c-plus-plus-logo.png"/></a> 
     <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
-    <a href="https://https://docs.soliditylang.org/" target="_blank"> <img src="https://img.icons8.com/fluent/48/000000/ethereum.png" alt="solidity" width="40" height="40"/> </a>
+    <a href="https://docs.soliditylang.org/en/v0.8.6/" target="_blank"> <img src="https://img.icons8.com/fluent/48/000000/ethereum.png" alt="solidity" width="40" height="40"/> </a>
     <a href="https://flutter.dev" target="_blank"> <img src="https://img.icons8.com/color/48/000000/flutter.png" alt="flutter" width="40" height="40"/> </a>
     <a href="https://php.net" target="_blank"> <img src="https://img.icons8.com/ios-filled/50/000000/php-logo.png" alt="php" width="40" height="40"/> </a>
     <a href="https://laravel.com" target="_blank"> <img src="https://img.icons8.com/fluent/48/000000/laravel.png" alt="laravel" width="40" height="40"/> </a>
