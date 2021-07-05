@@ -16,7 +16,8 @@
 
 - 📫 How to reach me **salithaniranjana@gmail.com**
 
-- ⚡ Fun fact **I love coding and astronomy. (and EDM too)**
+- ⚡ I love **coding and astronomy. (and EDM too)**
+
 
 ## 🚀 Languages and Tools:
 
