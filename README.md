@@ -10,7 +10,7 @@
 
 - 👨‍💻 Enthusiastic about **Machine Learning, Deep Learning and Computer Vision.**
 
-- 🌱 I’m currently working on **Learning Management System.**
+- 🌱 I’m currently working on a **Learning Management System.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects.**
 
