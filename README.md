@@ -14,7 +14,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects.**
 
-- 📫 How to reach me **salithaniranjana@gmail.com**
+- 📫 Reach me through **salithaniranjana@gmail.com**
 
 - ⚡ I love **coding and astronomy. (and EDM too)**
 
