@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" width="auto" src="https://media.giphy.com/media/oYQ9HRm5Mo7VXeMNVR/giphy.gif" height="300px"/></a>
+<a href="#"><img width="100%" width="auto" src="https://tenor.com/view/cute-penguin-hey-welcome-happy-to-see-you-gif-212179059379098508" height="300px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Salitha</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from Sri Lanka.</h3>
@@ -84,8 +84,4 @@
 
 </p>
 
-## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=salitha10">
-</a>
-<a href="https://github.com/salitha10?tab=followers"><img src="https://img.shields.io/github/followers/salitha10?label=Followers&style=social" alt="GitHub Badge"></a>
+## ❤ 
