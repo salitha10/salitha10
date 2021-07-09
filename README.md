@@ -40,7 +40,6 @@
     <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
     <a href="https://docs.soliditylang.org/en/v0.8.6/" target="_blank"> <img src="https://img.icons8.com/fluent/48/000000/ethereum.png" alt="solidity" width="40" height="40"/> </a>
     <a href="https://flutter.dev" target="_blank"> <img src="https://img.icons8.com/color/48/000000/flutter.png" alt="flutter" width="40" height="40"/> </a>
-    <a href="https://php.net" target="_blank"> <img src="https://img.icons8.com/ios-filled/50/000000/php-logo.png" alt="php" width="40" height="40"/> </a>
     <a href="https://laravel.com" target="_blank"> <img src="https://img.icons8.com/fluent/48/000000/laravel.png" alt="laravel" width="40" height="40"/> </a>
     <a href="https://vuejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/vue-js.png" alt="vue.js" width="40" height="40"/> </a>
     <a href="https://tensorflow.org" target="_blank"><img src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="tensorflow" width="40" height="40"/> </a>
