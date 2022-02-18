@@ -51,15 +51,15 @@
 
 <p align="center">
     <a href="https://github.com/salitha10/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com?user=salitha10&theme=highcontrast&fire=DD2727"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Salitha's streak" src="https://github-readme-streak-stats.herokuapp.com?user=salitha10&theme=highcontrast&fire=DD2727"/>
     </a>
 </p>
 
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/salitha10/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=salitha10&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/salitha10/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salitha10&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/salitha10/github-readme-stats"><img alt="Salitha's Github Stats" src="https://github-readme-stats.vercel.app/api?username=salitha10&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/salitha10/github-readme-stats"><img alt="Salitha's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salitha10&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
@@ -67,7 +67,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/salitha10/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=salitha10&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/salitha10/github-readme-activity-graph"><img alt="Salitha's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=salitha10&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
@@ -81,4 +81,3 @@
 <a href = "https://www.facebook.com/TMSNrox/"><img src="https://img.icons8.com/color/48/000000/facebook.png"/></a>
 
 </p>
-
