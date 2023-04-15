@@ -65,11 +65,11 @@
 
 
 <br/>
-<br/>
 
-<a href="https://github.com/salitha10/github-readme-activity-graph"><img alt="Salitha's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=salitha10&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
-<br/>
+<!-- <a href="https://github.com/salitha10/github-readme-activity-graph"><img alt="Salitha's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=salitha10&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
+
+
 <br/>
 
 ## Connect with me:
