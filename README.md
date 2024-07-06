@@ -13,7 +13,7 @@
 
 - 📫 Reach me through **salithaniranjana@gmail.com**
 
-- ⚡ I love **coding and astronomy. (and EDM too)**
+- ⚡ I love **coding**
 
 
 ## 🚀 Languages and Tools:
