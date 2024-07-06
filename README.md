@@ -5,11 +5,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently studying **Data Science** at **[SLIIT](https://www.sliit.lk/).**
+- 🔭 I’m a Data Engineer by profession.**
 
 - 👨‍💻 Enthusiastic about **Machine Learning, Deep Learning and Computer Vision.**
-
-- 🌱 I’m currently working on a **[Learning Management System](https://github.com/salitha10/Study-Buddy-LMS)**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects.**
 
