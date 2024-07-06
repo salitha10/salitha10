@@ -5,7 +5,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m a Data Engineer by profession.**
+- 🔭 I’m a **Data Engineer**.
 
 - 👨‍💻 Enthusiastic about **Machine Learning, Deep Learning and Computer Vision.**
 
